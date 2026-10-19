@@ -1,0 +1,16 @@
+.{
+    .name = .win_classic_volume_tray,
+    .version = "1.0.0",
+    .minimum_zig_version = "0.17.0",
+    .fingerprint = 0x88509f2d34126b7c,
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "main.zig",
+        "app.rc",
+        "icon_32x32.ico",
+        "win-classic-volume-tray.exe.manifest",
+        "Makefile",
+        "README.md",
+    },
+}

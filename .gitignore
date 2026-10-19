@@ -1,2 +1,7 @@
 # windows binary
 *.exe
+*.pdb
+
+# zig build artifacts
+.zig-cache/
+zig-out/
